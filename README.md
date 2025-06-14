@@ -79,7 +79,7 @@ Through this project, I learned:
 
 **Vishal Gupta**  
 📘 1st-year Computer Science Engineering Student at Niat 
-🔗 [LinkedIn](www.linkedin.com/in/vishal-linga) 
+🔗 [LinkedIn](https://www.linkedin.com/in/vishal-linga?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 | 🌐 [GitHub](https://github.com/vishalgupta1402)
 
 ---
