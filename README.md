@@ -52,14 +52,7 @@ Key tables in the project:
 
 ---
 
-## 📁 Project Files
 
-- `bookstore_schema.sql` – Main SQL file that creates all tables
-- `bookstore_insert.sql` – SQL file with sample data
-- `bookstore_queries.sql` – Sample queries to test the system
-- `entity_relationship_diagram.png` – ERD showing table relationships *(optional)*
-
-📝 All scripts can be run in any **MySQL** environment (Workbench etc.)
 
 ---
 
